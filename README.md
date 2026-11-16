@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/bookstack-2?utm_medium=integration&utm_source=button&utm_campaign=bookstack)
+
 # BookStack on Railway
 
 A one-click Railway template for [BookStack](https://www.bookstackapp.com/), the open-source wiki and documentation platform that organises content into shelves, books, chapters and pages.
