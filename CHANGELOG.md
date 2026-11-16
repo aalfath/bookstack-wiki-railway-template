@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased (2026-11-16)
+
+- README: add the Deploy on Railway button for the published template `bookstack-2`. No change to the app or its image.
+
 ## 26.09.3 (2026-11-16)
 
 - First release: BookStack v26.09.3 (LinuxServer.io image `v26.09.3-ls297`, pinned by digest) with Railway's MySQL, a `/config` volume and a `/status` health check.
