@@ -1,6 +1,6 @@
 # BookStack for Railway: LinuxServer.io's BookStack image (the image BookStack's
 # install docs point to), pinned by version and digest. Bump both together.
-FROM lscr.io/linuxserver/bookstack:v26.09.3-ls298@sha256:7a80c1685f59c264f791b14e836380b982f058438447031ec2136d867eb72a79
+FROM lscr.io/linuxserver/bookstack:v26.09.3-ls300@sha256:5e44313f320a8a6f92f171b1beca4748f3e0a5110a4f4c19047cb4b4e43695a2
 
 # Runs after the image's own init (folders, .env, first migration) and before
 # nginx and PHP start: waits for the database, migrates, and replaces the

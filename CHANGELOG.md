@@ -1,5 +1,10 @@
 # Changelog
 
+## 26.09.3-ls300 (2026-11-21)
+
+- No breaking changes. BookStack itself stays at v26.09.3; this is LinuxServer.io's image rebuild `v26.09.3-ls300` with updated base packages. Pages, uploads and settings in MySQL and on the `/config` volume are kept.
+- Image: `lscr.io/linuxserver/bookstack:v26.09.3-ls300@sha256:5e44313f320a8a6f92f171b1beca4748f3e0a5110a4f4c19047cb4b4e43695a2`.
+
 ## 26.09.3-ls298 (2026-11-17)
 
 - No breaking changes. BookStack itself stays at v26.09.3; this is LinuxServer.io's image rebuild `v26.09.3-ls298` with updated base packages. Pages, uploads and settings in MySQL and on the `/config` volume are kept.
